@@ -1,0 +1,5 @@
+localhost
+3306
+root
+MyPass1001
+America/Caracas
